@@ -5,6 +5,7 @@ title: Chase Miller
 email: chase.miller@bc.edu
 position: Graduate Student
 ---
+<!-- DO NOT EDIT ABOVE THIS LINE -->
 
 # Background
 I received my computer science degree from Virginia Tech in 2005 and worked briefly as a programmer. Soon after I found the wonderful world of bioinformatics and decided to pursue a masters in the subject at George Washington University. I continued in the field working at the Center For Infection and Immunity at Columbia University, where I helped develop a bioinformatic pipeline which teased out virus samples from whole sample NGS data. Since joining the MarthLab, I've been working on genomic visualization and developing solutions for working with big data remotely over the web. I also enjoy partially completing side projects in my spare time. See some of my work on my github page https://github.com/chmille4

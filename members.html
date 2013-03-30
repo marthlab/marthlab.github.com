@@ -3,15 +3,11 @@ layout: default
 title: Members
 ---
 
-
-<!-- Show members -->
-{% for member in site.members limit: 5  %}
-	<div>
-
-        <header>
-            <h2><a href="{{site.baseurl}}{{member.url}}">{{ member.name }}</a></h2>
-         </header>
-
-
-	</div>
-{% endfor %}
+<ul>
+   <!-- Show members -->
+   {% for member in site.pages limit: 5  %}
+      {% if member.layout == 'member' %}
+      <li><a href="{{site.baseurl}}{{member.url}}">{{ member.name }}</a></li>
+      {% endif %}
+   {% endfor %}
+</ul>

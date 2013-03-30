@@ -5,7 +5,7 @@ title: Derek Barnet
 email: FILL IN
 position: Graduate Student
 ---
-<!-- DO NOT EDIT ABOVE THIS LINE -->
+<!-- DO NOT REMOVE CODE ABOVE THIS LINE. THIS LINE WILL NOT SHOW UP ON WEBSITE. ONLY ON GITHUB PREVIEW-->
 
 # Background
 

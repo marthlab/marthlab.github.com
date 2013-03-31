@@ -4,8 +4,9 @@ name: Derek Barnett
 title: Derek Barnett
 email: barnetde@bc.edu
 position: Graduate Student
+
 ---
-<!-- DO NOT REMOVE CODE ABOVE THIS LINE. THIS LINE WILL NOT SHOW UP ON WEBSITE. ONLY ON GITHUB PREVIEW-->
+<!-- DO NOT REMOVE CODE BLOCK ABOVE THIS LINE. THIS BLOCK WILL SHOW UP ON GITHUB PREVIEW BUT NOT THE WEBSITE -->
 
 # Background
 

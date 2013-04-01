@@ -6,7 +6,7 @@ email: zhangmp@bc.edu
 position: Graduate Student
 
 ---
-![profile](/img/mengyao-zhou.jpg)
+![profile](/img/mengyao-zhao.jpg)
 
 <!-- DO NOT REMOVE CODE BLOCK ABOVE THIS LINE. THIS BLOCK WILL SHOW UP ON GITHUB PREVIEW BUT NOT THE WEBSITE -->
 

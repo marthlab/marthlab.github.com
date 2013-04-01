@@ -10,8 +10,6 @@ position: Research Assistant Professor
 
 <!-- DO NOT REMOVE CODE BLOCK ABOVE THIS LINE. THIS BLOCK WILL SHOW UP ON GITHUB PREVIEW BUT NOT THE WEBSITE -->
 
-![profile](/img/alistair-ward.jpg)
-
 # Background
 
 I got an MSci in Natural Sciences from the University of Cambridge (UK), then an MS and PhD in Physics from BC. 

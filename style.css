@@ -1,5 +1,5 @@
 
 
-.member .entry img[alt=profile] { width: 200px; } {
+.member .entry img[alt=profile] { max-width: 200px; } {
    
 }

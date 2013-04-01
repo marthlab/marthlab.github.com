@@ -12,13 +12,12 @@ position: Research Assistant Professor
 
 # Background
 
-Background
 I got an MSci in Natural Sciences from the University of Cambridge (UK), then an MS and PhD in Physics from BC. 
 The focus of my PhD research was the study and calculation of the thermal conductivity in semiconductor materials. 
 I worked from an agency of the Ministry of Defense (UK) for three years prior to moving to the US. I've been in the 
 Marthlab for nearly 4 years and my work here focuses on the development of next-generation sequencing pipelines.
 
-#Publications
+# Publications
 
 Thermal conductivity of diamond under extreme pressure: A first-principles study, D. A. Broido, L. Lindsay, and A. Ward, Physical Review B 86, 115203 – Published 6 September 2012
 

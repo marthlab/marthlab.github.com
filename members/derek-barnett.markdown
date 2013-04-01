@@ -1,5 +1,5 @@
 ---
-layout: member
+layout: default
 name: Derek Barnett
 title: Derek Barnett
 email: barnetde@bc.edu

@@ -118,7 +118,7 @@ Features:
 
 See more at: https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library
 
-![profile](/img/mengyao-zhao/SW_Imp.png)
+![](/img/mengyao-zhao/SW_Imp.png)
 
 Pictured Above: Running time for different SW implementations. Log-scaled running time is shown on the y-axis for SSW without (blue) and with (red) detailed alignment, Farrar’s implementation (green) and SSEARCH (pink). (A) Running times are shown for searching protein sequences against the full UniProt database (left) and one half of the TrEMBL database (right). All SW implementations used the BLOSUM50 scoring matrix with gap open penalty -12 and extension penalty -2. (B) The running time of aligning 1,000 simulated Illumina reads to human reference sequences of various lengths; and (C) of aligning 1,000 real sequencing reads to various microorganism genomes and the human chromosome 1 are shown. Farrar’s implementation cannot handle long sequences as human chromosome 1, so its corresponding running time is not shown here.
 
@@ -134,4 +134,4 @@ Other variation detectors' pipeline:
 
 PHV's pipeline:
 
-!(/img/mengyao-zhao/Mapping_2.png)
+![](/img/mengyao-zhao/Mapping_2.png)

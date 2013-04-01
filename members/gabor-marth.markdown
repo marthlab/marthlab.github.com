@@ -6,9 +6,9 @@ email: marht@bc.edu
 position: Principal Investogator
 
 ---
-<!-- DO NOT REMOVE CODE BLOCK ABOVE THIS LINE. THIS BLOCK WILL SHOW UP ON GITHUB PREVIEW BUT NOT THE WEBSITE -->
+![profile](/img/gabor-marth.jpg)
 
-<img id="gabor-marth" src="https://raw.github.com/marthlab/marthlab.github.com/master/img/gabor-marth.jpg" style="width:100%;cursor:pointer" onclick="window.location='https://raw.github.com/marthlab/marthlab.github.com/master/img/gabor-marth.jpg'" alt="image" />
+<!-- DO NOT REMOVE CODE BLOCK ABOVE THIS LINE. THIS BLOCK WILL SHOW UP ON GITHUB PREVIEW BUT NOT THE WEBSITE -->
 
 # Research
 

@@ -130,8 +130,8 @@ We are therefore developing a genomic variation caller (PHV) based on Profile Hi
 
 Other variation detectors' pipeline:
 
-![profile](/img/mengyao-zhao/Mapping.png)
+![](/img/mengyao-zhao/Mapping.png)
 
 PHV's pipeline:
 
-![profile](/img/mengyao-zhao/Mapping_2.png)
+!(/img/mengyao-zhao/Mapping_2.png)

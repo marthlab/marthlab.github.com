@@ -5,7 +5,7 @@ title: Members
 
 <ul>
    <!-- Show members -->
-   {% for member in site.pages limit: 5  %}
+   {% for member in site.pages  %}
       {% if member.layout == 'member' %}
       <li><a href="{{site.baseurl}}{{member.url}}">{{ member.name }}</a></li>
       {% endif %}

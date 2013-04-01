@@ -6,9 +6,11 @@ email: wardag@bc.edu
 position: Research Assistant Professor
 
 ---
+![profile](/img/alistair-ward.jpg)
+
 <!-- DO NOT REMOVE CODE BLOCK ABOVE THIS LINE. THIS BLOCK WILL SHOW UP ON GITHUB PREVIEW BUT NOT THE WEBSITE -->
 
-<img id="alistair-ward" src=" ![profile](/img/alistair-ward.jpg)" style="width:100%;cursor:pointer" onclick="window.location=' ![profile](/img/alistair-ward.jpg)" alt="image" />
+![profile](/img/alistair-ward.jpg)
 
 # Background
 
